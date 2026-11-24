@@ -1,0 +1,27 @@
+# Default to the app source and reviewed build inputs.
+/*
+!/.gitignore
+!/README.md
+!/LICENSE
+!/Info.plist
+!/build.sh
+!/Sources/
+/Sources/*
+!/Sources/*.swift
+!/Assets/
+/Assets/*
+!/Assets/Pip.icns
+!/Assets/PipMenu.svg
+!/Assets/LICENSE-Granite.txt
+!/.github/
+/.github/*
+!/.github/workflows/
+/.github/workflows/*
+!/.github/workflows/release.yml
+!/scripts/
+/scripts/*
+!/scripts/package-release.sh
+!/scripts/release.entitlements
+!/RELEASE.md
+!/scripts/smoke-test.sh
+!/SHA256SUMS
